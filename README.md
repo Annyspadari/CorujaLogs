@@ -45,15 +45,25 @@ O objetivo do projeto é analisar de forma integrada bases de dados relevantes, 
 # Relatório
 
 ## Sprint 1
+Como Profissional de logística, quero ver dados relevantes no projeto que influencia, para uma tomada de decisão.
 
+Como Profissional de logística quero receber um dashboard no Power BI responsivo, atendendo todos os dispositivos.
 
+Como profissional de logística, quero visualizar um exemplo do dashboard no power bi.
 
 ## Sprint 2
+Como profissional de logística, quero receber um relatório técnico de análise do projeto (GitHub, detalhes dos membros, relatórios do projeto, etc).
 
+Como profissional de logística, quero receber os dados base em modelagem python
+
+Como profissional de logística, quero um power bi interativo, onde posso ver os dados e gráficos evidentes do projeto
       
 ## Sprint 3
+Como Profissional em logística, quero que os dados estejam organizados por categorias (ano, estado), para facilitar a visualização.
 
-      
+Como Profissional de Segurança Viária, quero visualizar comparativos de diversos sinistros, para acompanhar tendências de segurança no trânsito.
+Como Profissional de Logística, quero ter um dashboard com mapa de acidentes, evolução anual e principais causas, para apoiar decisões estratégicas.
+
 ## Sprint 4
 
       
